@@ -37,7 +37,7 @@
 
  ## OUTPUT
  ![WhatsApp Image 2025-09-06 at 10 39 19_9721a5e7](https://github.com/user-attachments/assets/1919e1d1-e026-4af0-a7a4-bc64cee2cd70)
- [ex.1.1-.2D.Sketch.Drawing.v1.nandika.pdf](https://github.com/user-attachments/files/22184720/ex.1.1-.2D.Sketch.Drawing.v1.nandika.pdf)
+[EXP 1.2 N.pdf](https://github.com/user-attachments/files/22184740/EXP.1.2.N.pdf)
 
  
  ## RESULT
